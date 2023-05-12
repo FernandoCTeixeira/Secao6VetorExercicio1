@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33627.172
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Secao6VetorExercicio1", "Secao6VetorExercicio1\Secao6VetorExercicio1.csproj", "{D9550EDD-2754-4A24-95EF-EF56B30B931C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9550EDD-2754-4A24-95EF-EF56B30B931C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9550EDD-2754-4A24-95EF-EF56B30B931C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9550EDD-2754-4A24-95EF-EF56B30B931C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9550EDD-2754-4A24-95EF-EF56B30B931C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0FA8C191-B99F-4E90-9791-E4F74DAF18C7}
+	EndGlobalSection
+EndGlobal
